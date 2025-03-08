@@ -31,3 +31,5 @@ java Client
 ## 📝 Commands
 /pm username message → Send a private message
 /users → List online users
+[Chat Application Final Report.pdf](https://github.com/user-attachments/files/19145229/Chat.Application.Final.Report.pdf)
+
